@@ -85,10 +85,4 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"   width="40" height="40"/>
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg/2097px-Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg.png" alt="SharePoint Online" width="40"/>     
     </p>
-    <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=vinh-code-frontend&show_icons=true&locale=en"
-        alt="vinh-code-frontend" /></p>
-
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinh-code-frontend&"
-        alt="vinh-code-frontend" />
-  </p>
+   
